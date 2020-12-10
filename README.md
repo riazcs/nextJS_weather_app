@@ -12,8 +12,8 @@ Next city weather web application using nextjs, axios, next-router and Yahoo Wea
 ## Installation
 
 ```bash
-$ git clone https://github.com/riazcs/nextJS-weather-app.git
-$ cd nextJS-weather-app # jump into the project
+$ git clone https://github.com/riazcs/nextJS_weather_app.git
+$ cd nextJS_weather_app # jump into the project
 
 $ cp .env.example .env # copy and setup environment & don't forget to place API KEY from api.openweathermap.org on WEATHER_API_KEY
 $ npm i # or yarn if you fancy
