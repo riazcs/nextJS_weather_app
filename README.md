@@ -1,4 +1,4 @@
-# Next Weather App
+# NextJS API request Weather App
 
 The city weather application
 
